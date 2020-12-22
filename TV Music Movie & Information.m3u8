@@ -7,11 +7,12 @@ https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Ch
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.imgur.com/4Wfs9kj.png",Discovery Science ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic ᴴᴰ
+http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 group-title="Movie." tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1MGE0MzktZDI3Mi00ZDM3LThlNDItNjYyM2VkMWM2ODNmXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg",Biye.Com (2020)
 http://file.tajpata.com/downloads/Movies/Kolkata/2020/Biye.Com%20%282020%29/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv.mkv?raw=1
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
@@ -29,7 +30,7 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="Bangladesh",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS ᴴᴰ 
-
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png",Bangabandhu T20 Cup
 http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies HD
@@ -127,6 +128,16 @@ https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://s8.gifyu.com/images/S6d9cb2Sf950479fac32e2aa.png",Dhoom
 https://ccntv.anytv.live/dhoom/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Kabhi_Khushi_Kabhie_Gham..._poster.jpg/220px-Kabhi_Khushi_Kabhie_Gham..._poster.jpg" group-title="Movie.",Kabhi Khushi Kabhie Gham
+https://storage.sunplex.net/Movies/Hindi%20Movies/2001/Kabhi%20Khushi%20Kabhie%20Gham%20%282001%29/Kabhi.Khushi.Kabhie.Gham.2001.1080p.BluRay.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Kuch_Kuch_Hota_Hai_poster.jpg/220px-Kuch_Kuch_Hota_Hai_poster.jpg" group-title="Movie.",Kuch Kuch Hota Hai
+https://storage.sunplex.net/Movies/Hindi%20Movies/1998/Kuch%20Kuch%20Hota%20Hai%20%281998%29/Kuch.Kuch.Hota.Hai.1998.720p.BluRay.AAC.x264-VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Deewana_%281992_film%29.jpg/220px-Deewana_%281992_film%29.jpg" group-title="Movie.",Deewana
+https://storage.sunplex.net/Movies/Hindi%20Movies/1992/Deewana%281992%29/Deewana%281992%29%20720p%20DVDRip-X264.AAC.VTL.mp4?raw=1
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Street_Dancer_3D_poster.jpg/220px-Street_Dancer_3D_poster.jpg" group-title="Movie.",Street Dancer 3D ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Street%20Dancer%203D%20%282020%29/Street.Dancer.3D.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
