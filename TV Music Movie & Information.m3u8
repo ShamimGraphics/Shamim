@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://a10.gaanacdn.com/images/albums/97/302297/crop_480x480_302297.jpg",Muskurane ᴴᴰ
 https://www.dropbox.com/s/djxln9f8yyce8h6/Muskurane_-_Arijit_Singh_I_Citylights_I_RajKummar_Rao%281080p%29.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie.",Chhalaang ᴴᴰ
-https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGMzNzE1YjUtMDFhYS00N2E2LTg3ODgtNWIxM2NjN2VhNTQ3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" group-title="Movie.",Hullor ᴴᴰ
+https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2020/Hullor%20%282020%29/Hullor.2020.1080P.WEBRIP.x264.AAC.VTL.mp4?raw=1
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/Discovery_HD_logo_2009.png",DISCOVERY ᴴᴰ
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.imgur.com/4Wfs9kj.png",Discovery Science ᴴᴰ
@@ -12,7 +12,7 @@ http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 group-title="Movie." tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1MGE0MzktZDI3Mi00ZDM3LThlNDItNjYyM2VkMWM2ODNmXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg",Biye.Com (2020)
-http://file.tajpata.com/downloads/Movies/Kolkata/2020/Biye.Com%20%282020%29/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv.mkv?raw=1
+http://file.khulnaflix.net/Movies/Indian%20Bangla%20Movie/2020/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv.mkv?raw=1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
@@ -137,6 +137,8 @@ https://storage.sunplex.net/Movies/Hindi%20Movies/1998/Kuch%20Kuch%20Hota%20Hai%
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Deewana_%281992_film%29.jpg/220px-Deewana_%281992_film%29.jpg" group-title="Movie.",Deewana
 https://storage.sunplex.net/Movies/Hindi%20Movies/1992/Deewana%281992%29/Deewana%281992%29%20720p%20DVDRip-X264.AAC.VTL.mp4?raw=1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie.",Chhalaang ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Street_Dancer_3D_poster.jpg/220px-Street_Dancer_3D_poster.jpg" group-title="Movie.",Street Dancer 3D ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Street%20Dancer%203D%20%282020%29/Street.Dancer.3D.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
