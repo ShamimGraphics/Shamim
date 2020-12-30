@@ -30,29 +30,8 @@ https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Coolie%20No.%201%20%28202
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Poster_of_Love_Aaj_Kal_Porshu.jpg/220px-Poster_of_Love_Aaj_Kal_Porshu.jpg" group-title="Movie.",Love Aaj Kal Porshu
 https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2020/Love%20Aaj%20Kal%20Porshu%20%282020%29/Love.Aaj.Kal.Porshu.2020.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E01
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E01.1080p.AVC.AAC.VTL.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E02
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E02.1080p.AVC.AAC.VTL.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E03
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E03.1080p.AVC.AAC.VTL.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E04
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E04.1080p.AVC.AAC.VTL.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E05
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E05.1080p.AVC.AAC.VTL.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E06
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E06.1080p.AVC.AAC.VTL.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E07
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E07.1080p.AVC.AAC.VTL.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E08
-https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E08.1080p.AVC.AAC.VTL.mp4?raw=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ShamimHossainOfficial",Zee Bangla
+http://103.205.133.20/hls/zeebangla.m3u8?@ShamimHossainOfficial
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV ᴴᴰ
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -721,6 +700,33 @@ https://www.dropbox.com/s/host5vyn3txmu8n/BTP5.mp4?raw=1
 https://www.dropbox.com/s/27w8bvz5ussvcle/BTP6.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [7]
 https://www.dropbox.com/s/q58q4e00l2vzzya/BTP7.mp4?raw=1
+
+
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E01
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E01.1080p.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E02
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E02.1080p.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E03
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E03.1080p.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E04
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E04.1080p.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E05
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E05.1080p.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E06
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E06.1080p.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E07
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E07.1080p.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E08
+https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E08.1080p.AVC.AAC.VTL.mp4?raw=1
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-15.10.20]
