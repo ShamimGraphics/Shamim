@@ -31,7 +31,7 @@ https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Coolie%20No.%201%20%28202
 https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2020/Love%20Aaj%20Kal%20Porshu%20%282020%29/Love.Aaj.Kal.Porshu.2020.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ShamimHossainOfficial",Zee Bangla
-http://103.205.133.20/hls/zeebangla.m3u8?@ShamimHossainOfficial
+http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?@ShamimHossainOfficial
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV ᴴᴰ
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
