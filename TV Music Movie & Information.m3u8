@@ -91,6 +91,8 @@ https://rhridoy136.shortcm.li/channel24.m3u8
 https://rhridoy136.shortcm.li/channeli.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladesh",DBC News ᴴᴰ
 https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:-1 group-title="Music",Sangeet Bangla
+http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s8.gifyu.com/images/STAR-JALSHA-HDb00a0535ed792fc6.png",Star জলসা ᴴᴰ
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s8.gifyu.com/images/USKY2MD6.png",ZEE বাংলা ᴴᴰ
@@ -113,8 +115,6 @@ https://rhridoy136.shortcm.li/nagoriktv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="Bangladesh",ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
-#EXTINF:-1 group-title="Music",Sangeet Bangla
-http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
