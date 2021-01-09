@@ -101,8 +101,6 @@ http://172.32.1.88:1935/tvprogram/MUSIC-INDIA/playlist.m3u8
 https://rhridoy136.shortcm.li/deeptotv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV ᴴᴰ
 https://rhridoy136.shortcm.li/durontotv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Gaan_Bangla_Official_Logo_.png" group-title="Bangladesh",Gaan Bangla
-https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangladesh",MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTINF:0 tvg-logo="https://s8.gifyu.com/images/downloadafedafcbe3ce8cea.jpg" group-title="Bangladesh",Nagorik TV
@@ -119,6 +117,8 @@ https://rhridoy136.shortcm.li/banglatv.m3u8
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangladesh",ATN Music
 https://rhridoy136.shortcm.li/atnmusic.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Gaan_Bangla_Official_Logo_.png" group-title="Bangladesh",Gaan Bangla
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/RadioTodayFM89.6.png/220px-RadioTodayFM89.6.png",Radio Today FM 89.6
 http://118.179.219.244:8000/;
 #EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Radio_foorti.jpg/220px-Radio_foorti.jpg",Radio Foorti 88.0FM
