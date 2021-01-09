@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://a10.gaanacdn.com/images/albums/97/302297/crop_480x480_302297.jpg",Muskurane ᴴᴰ
 https://www.dropbox.com/s/djxln9f8yyce8h6/Muskurane_-_Arijit_Singh_I_Citylights_I_RajKummar_Rao%281080p%29.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Password_Poster.jpg/220px-Password_Poster.jpg" group-title="Movie.",Password (2019)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Password_Poster.jpg/220px-Password_Poster.jpg" group-title="Movie.",Password ᴴᴰ
 https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2019/Password%20%282019%29/Password.%282019%29.1080.WEBDL.x264.AAC.VTL.mp4?raw=1
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/Discovery_HD_logo_2009.png",DISCOVERY ᴴᴰ
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
@@ -11,25 +11,23 @@ https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGMzNzE1YjUtMDFhYS00N2E2LTg3ODgtNWIxM2NjN2VhNTQ3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" group-title="Movie.",Hullor ᴴᴰ
-https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2020/Hullor%20%282020%29/Hullor.2020.1080P.WEBRIP.x264.AAC.VTL.mp4?raw=1
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
 http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
-#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo ᴴᴰ
-https://www.dropbox.com/s/wsebx021xj9ttb4/Jodi_Bolo_%28%E0%A6%AF%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%8B%29__One_Movie_Song__Yash__Nusrat__Birsa_Dasgupta__Arijit_Singh__Arindom__SVF%281080p%29.mp4?raw=1
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies ᴴᴰ
+http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/sjM1MbFR.png",Zee Cinema ᴴᴰ
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM1ZmY5NWMtOTUzMC00MjBiLTk0MjQtMzgwNjdjYjU1MDUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="Movie.",Mainkar Chipay
-https://storage.sunplex.net/TV%20Series/Bangla%20Drama/M/Mainkar.Chipay.2020.1080P.WEBDL.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Coolie_No._1_poster.jpg/220px-Coolie_No._1_poster.jpg" group-title="Movie.",Coolie No. 1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Coolie_No._1_poster.jpg/220px-Coolie_No._1_poster.jpg" group-title="Movie.",Coolie No. 1 ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Coolie%20No.%201%20%282020%29/Coolie.No.%201.2020.720p.WebRip.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Poster_of_Love_Aaj_Kal_Porshu.jpg/220px-Poster_of_Love_Aaj_Kal_Porshu.jpg" group-title="Movie.",Love Aaj Kal Porshu
-https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2020/Love%20Aaj%20Kal%20Porshu%20%282020%29/Love.Aaj.Kal.Porshu.2020.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV ᴴᴰ
@@ -44,8 +42,8 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png",Bangabandhu T20 Cup
 http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies HD
-http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",বাংলাদেশ টেলিভিশন
 http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladesh",News 24 ᴴᴰ
@@ -139,6 +137,13 @@ https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://s8.gifyu.com/images/S6d9cb2Sf950479fac32e2aa.png",Dhoom
 https://ccntv.anytv.live/dhoom/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Poster_of_Love_Aaj_Kal_Porshu.jpg/220px-Poster_of_Love_Aaj_Kal_Porshu.jpg" group-title="Movie.",Love Aaj Kal Porshu ᴴᴰ
+https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2020/Love%20Aaj%20Kal%20Porshu%20%282020%29/Love.Aaj.Kal.Porshu.2020.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGMzNzE1YjUtMDFhYS00N2E2LTg3ODgtNWIxM2NjN2VhNTQ3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" group-title="Movie.",Hullor ᴴᴰ
+https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2020/Hullor%20%282020%29/Hullor.2020.1080P.WEBRIP.x264.AAC.VTL.mp4?raw=1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Kabhi_Khushi_Kabhie_Gham..._poster.jpg/220px-Kabhi_Khushi_Kabhie_Gham..._poster.jpg" group-title="Movie.",Kabhi Khushi Kabhie Gham
 https://storage.sunplex.net/Movies/Hindi%20Movies/2001/Kabhi%20Khushi%20Kabhie%20Gham%20%282001%29/Kabhi.Khushi.Kabhie.Gham.2001.1080p.BluRay.x264.AAC.VTL.mp4?raw=1
 
@@ -520,6 +525,9 @@ https://www.dropbox.com/s/abw7ycwzat2ik0r/Thodi%20Jagah%20Video%20%20Riteish%20D
 
 
 ######
+#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo ᴴᴰ
+https://www.dropbox.com/s/wsebx021xj9ttb4/Jodi_Bolo_%28%E0%A6%AF%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%8B%29__One_Movie_Song__Yash__Nusrat__Birsa_Dasgupta__Arijit_Singh__Arindom__SVF%281080p%29.mp4?raw=1
+
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://i1.sndcdn.com/artworks-000185201014-byi7e2-t500x500.jpg",Ae Dil Hai Mushkil ᴴᴰ
 https://www.dropbox.com/s/0emmy64upopdl6q/Ae%20Dil%20Hai%20Mushkil%20-%20Karan%20Aishwarya%20Ranbir%20Anushka%20Pritam%20Arijit%20Singh%20%281080p%29.mp4?raw=1
 
@@ -726,7 +734,8 @@ https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2020/12/taqdeer-1608468600226.jpg" group-title="Taqdeer",Taqdeer.S01E08
 https://storage.sunplex.net/TV%20Series/Bangla%20Series/Bangladesh/Taqdeer%20%28TV%20Series%202020%E2%80%93%20%29/S01/Taqdeer.S01E08.1080p.AVC.AAC.VTL.mp4?raw=1
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM1ZmY5NWMtOTUzMC00MjBiLTk0MjQtMzgwNjdjYjU1MDUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="Movie.",Mainkar Chipay
+https://storage.sunplex.net/TV%20Series/Bangla%20Drama/M/Mainkar.Chipay.2020.1080P.WEBDL.x264.AAC.VTL.mp4?raw=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-15.10.20]
 https://www.dropbox.com/s/e1l1g0h0jjf6khq/2.mp4?raw=1
