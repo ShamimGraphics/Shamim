@@ -70,12 +70,8 @@ https://rhridoy136.shortcm.li/asiantv.m3u8
 https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangladesh",ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x91288" group-title="Bangladesh",Bangla TV
-https://rhridoy136.shortcm.li/banglatv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="Bangladesh",Banglavision ᴴᴰ
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladesh",Bijoy TV
-https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="Bangladesh",Boishakhi
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangladesh",BTV World
@@ -115,12 +111,14 @@ https://rhridoy136.shortcm.li/nagoriktv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="Bangladesh",ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladesh",Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x91288" group-title="Bangladesh",Bangla TV
+https://rhridoy136.shortcm.li/banglatv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangladesh",ATN Music
 https://rhridoy136.shortcm.li/atnmusic.m3u8
-
 #EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/RadioTodayFM89.6.png/220px-RadioTodayFM89.6.png",Radio Today FM 89.6
 http://118.179.219.244:8000/;
 #EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Radio_foorti.jpg/220px-Radio_foorti.jpg",Radio Foorti 88.0FM
