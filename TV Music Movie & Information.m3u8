@@ -163,20 +163,19 @@ http://172.32.1.88:1935/tvprogram/B4U-MOVIES/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/Aakaash-Aath/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg",SONY TEN 1
 http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/SONY-TEN-2-HD.jpg",SONY TEN 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/SONY-TEN-2-HD.jpg",SONY TEN 2 ᴴᴰ
 http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 ᴴᴰ
 http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg",Star Sports Select 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg",Star Sports Select 2 ᴴᴰ
 http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT-2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/STAR-SPORTS-1-HD.jpg",STAR SPORTS 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/STAR-SPORTS-1-HD.jpg",STAR SPORTS 1 ᴴᴰ
 http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/1280px-Sony_ESPN_logo.svg.png",SONY ESPN
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/SONY-SIX-HD.jpg",SONY SIX HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/SONY-SIX-HD.jpg",SONY SIX ᴴᴰ
 http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s8.gifyu.com/images/STAR-SPORTS-FIRST.jpg",STAR SPORTS FIRST
-http://172.32.1.88:1935/tvprogram/STAR-SP-FIRST/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Kaho_Naa_Pyaar_Hai_Poster.jpg/220px-Kaho_Naa_Pyaar_Hai_Poster.jpg" group-title="Movie.",Kaho Naa… Pyaar Hai ᴴᴰ 
 https://storage.sunplex.net/Movies/Hindi%20Movies/2000/kaho%20Naa%20Pyaar%20Hai%20%282000%29/Kaho.Naa...Pyaar.Hai.2000.1080p.x264.AAC2.0.mp4?raw=1
