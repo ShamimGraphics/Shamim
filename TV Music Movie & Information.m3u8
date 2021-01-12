@@ -838,6 +838,10 @@ http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/pn9rydep7xzxfcg/101.6.jpg?raw=1" group-title="RADIO/FM LIVE",Colours FM (101.6)
 http://45.64.135.88:8000/stream1
 
+#EXTINF:-1 group-title="India",SONY AATH
+http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
+#EXTINF:-1 group-title="Movies",HBO
+http://172.32.1.88:1935/tvprogram/HBO/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [1]
